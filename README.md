@@ -1,1 +1,1 @@
-# House_Pricing_Model
+Preferential Factors Favoring Housing Sales In US (King county  as a case study)
